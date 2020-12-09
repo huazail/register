@@ -1,0 +1,138 @@
+
+.index{
+  width: 100%;
+  margin-top: 15px;
+  color: #666;
+}
+.resibody p:nth-child(1){
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.resibody p:nth-child(2){
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.top_logo img{
+  display: block;
+  margin: 0 auto;
+}
+
+.resibody{
+  width: 100%;
+  font: 16px "微软雅黑";
+}
+.resibody .text{
+  width: 100%;
+  text-align: center;
+  margin: 10px 10px;
+}
+.resibody img:not(nth-child(5)){
+  vertical-align: middle;
+  width: 14px;
+  height: 20px;
+  padding-left:5px;
+}
+
+.username input{
+  width: 90%;
+  margin-top: 10px;
+  border: 0;
+  padding-left: 10px;
+}
+
+.Verification input{
+  width: 89%;
+  height: 18px;
+  margin-top: 10px;
+  border: 0;
+  padding-left: 10px;
+}
+.password input{
+  width: 55%;
+  height: 18px;
+  margin-top: 10px;
+  border: 0;
+  padding-left: 10px;
+}
+.company input{
+  width: 90%;
+  height: 18px;
+  margin-top: 10px;
+  border: 0;
+  padding-left: 10px;
+}
+.resibody input:focus{
+  outline: medium;
+}
+.Verification button:focus{
+  outline: medium;
+}
+.username{
+  width: 90%;
+  height: 35px;
+  border: 1px solid #ccc;
+  margin: 0 auto 10px;
+  padding-left: 10px;
+
+}
+.password{
+  width: 90%;
+  height: 35px;
+  border: 1px solid  #ccc;
+  margin: 0 auto 10px;
+  padding-left: 10px;
+}
+.company{
+  width: 90%;
+  height: 35px;
+  border: 1px solid #ccc;
+  margin: 0 auto 10px;
+  padding-left: 10px;
+}
+.Verification{
+  width: 90%;
+  height: 35px;
+  border: 1px solid #ccc;
+  margin: 0 auto 10px;
+  padding-left: 10px;
+}
+.Verification button{
+  width: 30%;
+  height: 100%;
+  border: 0;
+  float: right;
+  margin-top: 17px;
+}
+.agreement{
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 15px;
+  font-size: 14px;
+}
+.agreement a{
+  color: #2f72f5;
+}
+.button button{
+  display: block;
+  width: 90%;
+  height: 40px;
+  margin: 0 auto;
+  background-color:#2f72f5;
+  border: 0;
+  border-radius: 30px;
+  color:#fff;
+}
+.button button:focus{
+  outline: medium;
+}
+.return{
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+.return img{
+  margin-top:20px;
+  width: 15px;
+  height: 15px;
+}
